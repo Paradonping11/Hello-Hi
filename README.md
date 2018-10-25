@@ -1,14 +1,15 @@
-<div class="topnav" id="myTopnav">
+
+<nav id="site-nav">
 <ul>
-  <a href="#home" class="active">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+   <li><a href="#home" class="active">Home</a> </li>
+   <li><a href="#news">News</a></li>
+   <li><a href="#contact">Contact</a></li>
+   <li><a href="#about">About</a></li>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
 </ul>
-</div>
+</nav>
 
 
 
