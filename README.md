@@ -19,11 +19,6 @@
 
 <body >
 
-<nav class="navbar navbar-expand-lg navbar-light ">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <th>
@@ -33,30 +28,30 @@
     </th>
     <th>
       <li class="nav-item">
-        <a class="btn btn-outline-success my-2 my-sm-0" href="updateapp.php">Update</a>
+        <a class="btn btn-outline-success my-2 my-sm-0" href="updateapp.php">About</a>
       </li>   
     </th>
 
     <th>
       <li class="nav-item dropdown">
       <a class="btn btn-outline-success my-2 my-sm-0 dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Profile
+          Project
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="profilepet.php">Profile Pet</a>
-          <a class="dropdown-item" href="profileowner.php">Profile Owner</a>
+          <a class="dropdown-item" href="profilepet.php">Project </a>
+          <a class="dropdown-item" href="profileowner.php">Project </a>
         </div>
       </li>
     </th>
 
     <th>
       <li class="nav-item">
-        <a class="btn btn-outline-success my-2 my-sm-0" href="#">Notifications</a>
+        <a class="btn btn-outline-success my-2 my-sm-0" href="#">Blog</a>
       </li>
     </th>
     <th>
       <li class="nav-item">
-        <a class="btn btn-outline-success my-2 my-sm-0" href="#">Setting</a>
+        <a class="btn btn-outline-success my-2 my-sm-0" href="#">Email</a>
       </li>
     </th>
     </ul>
