@@ -11,6 +11,10 @@
 </ul>
 </nav>
 
+<script>
+   var navigation = responsiveNav("#site-nav");
+   </script>
+
 
 
 
